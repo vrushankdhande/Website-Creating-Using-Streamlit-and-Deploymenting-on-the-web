@@ -1,4 +1,4 @@
-# Website Creating Using Streamlit and Deploymenting on web
+# Website Creating Using Streamlit and Deploymenting on the web
 
 Streamlit is a Python library that allows you to create interactive web applications for data science and machine learning projects with minimal effort. It's particularly well-suited for creating data-driven dashboards and visualizations. To build a website using Streamlit, follow these steps:
 
